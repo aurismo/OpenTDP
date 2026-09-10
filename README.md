@@ -1,4 +1,4 @@
-# OpenTDP (FIN TDP)
+# OpenTDP "FIN TDP" - Open Technical Data Package
 
 OpenTDP — also known as FIN TDP — is an open specification for Technical Data Packages (TDPs). It exists to solve a problem the industry has lived with for years: TDPs are constantly referenced, but rarely defined in a way that's concrete enough to implement. OpenTDP replaces that ambiguity with a practical, extensible structure that can grow alongside the needs of the communities using it.
 
