@@ -1,0 +1,8 @@
+OpenTDP README
+
+Installation:
+1. Install Python 3.12 or newer
+2. Install required Python libraries (requirements.txt) eg. with pip install
+3. Go to a source folder and run "python main.py"
+
+Tip: with pyinstaller you can create one executable file for your OS eg. .exe
